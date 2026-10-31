@@ -29,4 +29,4 @@ methods from plain text until using vector local database**
 ## 4.0 Rag_PDF
 **Add more information (text, documents, etc) to existing local vector DB**
 
-(/RAG_Notes.png)
+![RAG Process](https://github.com/jmichelc/RAG_PROJECT/blob/main/RAG_Notes.png)
